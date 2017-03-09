@@ -9,8 +9,7 @@
     "declaration": true
   },
   "files": [
-    "index.ts",
-    "zztest-a2.ts"
+    "index.ts"
   ],
   "exclude": [
     "node_modules"
