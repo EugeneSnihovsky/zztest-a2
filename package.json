@@ -6,8 +6,7 @@
   "typings": "./index.d.ts",
   "scripts": {
     "tsc": "tsc || true",
-    "install" : "npm install"
-  , "postinstall" : "npm run tsc"
+    "postinstall" : "npm run tsc"
   },
   "author": "",
   "license": "ISC",
