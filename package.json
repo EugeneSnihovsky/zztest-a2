@@ -1,13 +1,13 @@
 {
-  "name": "test-a2",
+  "name": "zztest-a2",
   "version": "1.0.0",
   "description": "",
   "main": "./index.js",
   "typings": "./index.d.ts",
   "scripts": {
     "tsc": "tsc || true",
-    "install" : "scripts/install.js"
-  , "postinstall" : "scripts/install.js"
+    "install" : "npm install"
+  , "postinstall" : "npm run tsc"
   },
   "author": "",
   "license": "ISC",
