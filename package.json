@@ -5,12 +5,12 @@
   "main": "./index.js",
   "typings": "./index.d.ts",
   "scripts": {
-    "tsc": "tsc || true",
-    "postinstall" : "npm run tsc"
+    "postinstall": "tsc"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/core-js": "^0.9.36",
     "typescript": "~2.0.9"
   },
   "dependencies": {
