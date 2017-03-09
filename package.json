@@ -1,0 +1,23 @@
+{
+  "name": "test-a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "typings": "./index.d.ts",
+  "scripts": {
+    "tsc": "tsc || true",
+    "install" : "scripts/install.js"
+  , "postinstall" : "scripts/install.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "~2.0.9"
+  },
+  "dependencies": {
+    "@angular/common": "~2.4.0",
+    "@angular/core": "~2.4.0",
+    "rxjs": "~5.0.3",
+    "zone.js": "^0.7.2"
+  }
+}
