@@ -1,4 +1,3 @@
-
 ## Step definitions
 
 ### Given steps
@@ -187,4 +186,3 @@
     </tr>
   </table>
 </details>
-
