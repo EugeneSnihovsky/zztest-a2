@@ -8,7 +8,7 @@ Testing readme features
 ## Step definitions
 
 ### Given steps
-<a name="Step-comment"></a><details>
+#### <a name="Step-comment"></a><details>
   <summary>I go to "(.*)" page</summary>
   <table style="width:100%">
     <tr>
