@@ -4,13 +4,12 @@ Just for test angular 2 modules to npm publish
 Testing readme features
 
 
-
 ## Step definitions
 
 ### Given steps
 #### <a name="Step-comment"></a>I go to "(.*)" page
 <details>
-  <summary>I go to "(.*)" page</summary>
+  <summary>Details</summary>
   <table style="width:100%">
     <tr>
       <th align="left">Description</th>
@@ -46,7 +45,7 @@ Testing readme features
 ### When steps
 #### <a name="Step-comment-3"></a>I fill "(.*)" input field with "(.*)"
 <details>
-  <summary>I fill "(.*)" input field with "(.*)"</summary>
+  <summary>Details</summary>
   <table style="width:100%">
     <tr>
       <th align="left">Description</th>
@@ -92,7 +91,7 @@ Testing readme features
 </details>
 #### <a name="Step-comment-5"></a>I click "(.*)" button
 <details>
-  <summary>I click "(.*)" button</summary>
+  <summary>Details</summary>
   <table style="width:100%">
     <tr>
       <th align="left">Description</th>
@@ -128,7 +127,7 @@ Testing readme features
 ### Then steps
 #### <a name="Step-comment-6"></a>I should see "(.*)" (success|error|warning) notification
 <details>
-  <summary>I should see "(.*)" (success|error|warning) notification</summary>
+  <summary>Details</summary>
   <table style="width:100%">
     <tr>
       <th align="left">Description</th>
@@ -174,7 +173,7 @@ Testing readme features
 </details>
 #### <a name="Step-888-comment-6"></a>I should see "(.*)" (success|error|warning) notification
 <details>
-  <summary>I should see "(.*)" (success|error|warning) notification</summary>
+  <summary>Details</summary>
   <table style="width:100%">
     <tr>
       <th align="left">Description</th>
