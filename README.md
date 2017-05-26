@@ -1,8 +1,3 @@
-# zztest-a2
-Just for test angular 2 modules to npm publish
-
-Testing readme features
-
 
 ## Step definitions
 
@@ -41,6 +36,7 @@ Testing readme features
     </tr>
   </table>
 </details>
+
 
 ### When steps
 #### <a name="Step-comment-3"></a>I fill "(.*)" input field with "(.*)"
@@ -89,6 +85,7 @@ Testing readme features
     </tr>
   </table>
 </details>
+
 #### <a name="Step-comment-5"></a>I click "(.*)" button
 <details>
   <summary>Details</summary>
@@ -123,6 +120,7 @@ Testing readme features
     </tr>
   </table>
 </details>
+
 
 ### Then steps
 #### <a name="Step-comment-6"></a>I should see "(.*)" (success|error|warning) notification
@@ -171,6 +169,7 @@ Testing readme features
     </tr>
   </table>
 </details>
+
 #### <a name="Step-888-comment-6"></a>I should see "(.*)" (success|error|warning) notification
 <details>
   <summary>Details</summary>
@@ -193,5 +192,4 @@ Testing readme features
     </tr>
   </table>
 </details>
-
 
