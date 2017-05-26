@@ -2,9 +2,8 @@
 ## Step definitions
 
 ### Given steps
-#### <a name="Step-comment"></a>I go to "(.*)" page
 <details>
-  <summary>Details</summary>
+  <summary>I go to "(.*)" page</summary>
   <table style="width:100%">
     <tr>
       <th align="left">Description</th>
@@ -39,9 +38,8 @@
 
 
 ### When steps
-#### <a name="Step-comment-3"></a>I fill "(.*)" input field with "(.*)"
 <details>
-  <summary>Details</summary>
+  <summary>I fill "(.*)" input field with "(.*)"</summary>
   <table style="width:100%">
     <tr>
       <th align="left">Description</th>
@@ -86,9 +84,8 @@
   </table>
 </details>
 
-#### <a name="Step-comment-5"></a>I click "(.*)" button
 <details>
-  <summary>Details</summary>
+  <summary>I click "(.*)" button</summary>
   <table style="width:100%">
     <tr>
       <th align="left">Description</th>
@@ -123,9 +120,8 @@
 
 
 ### Then steps
-#### <a name="Step-comment-6"></a>I should see "(.*)" (success|error|warning) notification
 <details>
-  <summary>Details</summary>
+  <summary>I should see "(.*)" (success|error|warning) notification</summary>
   <table style="width:100%">
     <tr>
       <th align="left">Description</th>
@@ -170,9 +166,8 @@
   </table>
 </details>
 
-#### <a name="Step-888-comment-6"></a>I should see "(.*)" (success|error|warning) notification
 <details>
-  <summary>Details</summary>
+  <summary>I should see "(.*)" (success|error|warning) notification</summary>
   <table style="width:100%">
     <tr>
       <th align="left">Description</th>
