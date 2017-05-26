@@ -8,7 +8,8 @@ Testing readme features
 ## Step definitions
 
 ### Given steps
-#### <a name="Step-comment"></a><details>
+#### <a name="Step-comment"></a>I go to "(.*)" page
+<details>
   <summary>I go to "(.*)" page</summary>
   <table style="width:100%">
     <tr>
@@ -43,7 +44,8 @@ Testing readme features
 </details>
 
 ### When steps
-<a name="Step-comment-3">Link</a><details>
+#### <a name="Step-comment-3"></a>I fill "(.*)" input field with "(.*)"
+<details>
   <summary>I fill "(.*)" input field with "(.*)"</summary>
   <table style="width:100%">
     <tr>
@@ -88,7 +90,8 @@ Testing readme features
     </tr>
   </table>
 </details>
-<a name="Step-comment-5">Link</a><details>
+#### <a name="Step-comment-5"></a>I click "(.*)" button
+<details>
   <summary>I click "(.*)" button</summary>
   <table style="width:100%">
     <tr>
@@ -123,7 +126,8 @@ Testing readme features
 </details>
 
 ### Then steps
-<a name="Step-comment-6">Link</a><details>
+#### <a name="Step-comment-6"></a>I should see "(.*)" (success|error|warning) notification
+<details>
   <summary>I should see "(.*)" (success|error|warning) notification</summary>
   <table style="width:100%">
     <tr>
@@ -168,7 +172,8 @@ Testing readme features
     </tr>
   </table>
 </details>
-<a name="Step-888-comment-6">Link</a><details>
+#### <a name="Step-888-comment-6"></a>I should see "(.*)" (success|error|warning) notification
+<details>
   <summary>I should see "(.*)" (success|error|warning) notification</summary>
   <table style="width:100%">
     <tr>
@@ -189,3 +194,5 @@ Testing readme features
     </tr>
   </table>
 </details>
+
+
